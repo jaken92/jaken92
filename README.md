@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome to my Profile
+
+My name is Petter Jakobsson. I´m 30 years old. 
+
+Currently studying Webdevelopment at Yrgo.
+
+Contact: Jaaakeeen@gmail.com
+
+![image of me coding](https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif)
 
 <!--
 **jaken92/jaken92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
