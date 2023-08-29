@@ -1,10 +1,10 @@
-### Welcome to my Profile
+### Hello there visitor
 
-My name is Petter Jakobsson. I´m 30 years old. 
+My name is Petter Jakobsson. I´m 31 years old. 
 
-Currently studying Webdevelopment at Yrgo. Looking for a place to do my LiA, November 2023 - June 2024.
+Currently studying Webdevelopment at Yrgo. Looking for a place to do my LiA, November 2023 - May 2024.
 
-Contact: Jaaakeeen@gmail.com
+Contact: petjak0627@skola.goteborg.se
 
 ![image of me coding](https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif)
 
