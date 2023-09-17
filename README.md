@@ -14,16 +14,19 @@ I am intrested in all things related to webdevelopment. I have experience with S
 
 Here are some of my repositories i think you should check out: 
 
-🌱  - RecipeBook - Laravel project - Featuring some of my work related to database, relations, routing and querybuilding in Laravel. 
+🌱  - RecipeBook - Laravel project - Featuring some of my work related to database, relations, routing and querybuilding in Laravel.
+
 🌱  - Kino-wp - Wordpress project - Using the free version of wordpress, creating our own theme and slimming down the use of plugins to just utilizing Advanced custom fields. 
+
 🌱  - The Zen Quote Machine - Typescript/React project - Exploring the world of typescript in conjunction with react. Using Tan stack query to handle fetching from API. 
+
 🌱  - Animal-hangman - React project - My very first encounter with react. Building a hangman-game felt like a great way to get familiar with some of its features. 
 
 🔭 - I am currently working on a Supabase/NextJS web app together with my classmate Anna Brummark, follow our progress here:  
 
 ## Contact
 
-petjak0627@skola.goteborg.se || +46735876724
+📫 - petjak0627@skola.goteborg.se || +46735876724
 
 
 
