@@ -1,8 +1,8 @@
-### Hello there, visitor!
+## Welcome!
 
 Welcome to my profile! Here you can see some of my work and projects within the field of web development. 
 
-## About
+### About
 
 My name is Petter Jakobsson. I´m 31 years old, based in Gothenburg, Sweden. 
 
@@ -10,7 +10,7 @@ Currently studying Webdevelopment at Yrgo. Looking for a place to do my LiA, Nov
 
 I am intrested in all things related to webdevelopment. I have experience with SQL, Php, React, Typescript, Wordpress and C#.
 
-## Projects
+### Projects
 
 Here are some of my repositories i think you should check out: 
 
@@ -24,7 +24,7 @@ Here are some of my repositories i think you should check out:
 
 🔭 - I am currently working on a Supabase/NextJS web app together with my classmate Anna Brummark, follow our progress here:  
 
-## Contact
+### Contact
 
 📫 - petjak0627@skola.goteborg.se || +46735876724
 
