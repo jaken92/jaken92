@@ -16,7 +16,7 @@ Some of the tech i have experience with: SQL, Php, React, Typescript, Wordpress,
 
 Here are some of my repositories i think you should check out: 
 
-- 🌱 [(https://github.com/jaken92/recipes-book)]: Recipe Book - Laravel project - Featuring some of my work related to database, relations, routing and querybuilding in Laravel.
+- 🌱 [Recipe-Book](http://example.com) - Laravel project - Featuring some of my work related to database, relations, routing and querybuilding in Laravel.
 
 - 🌱 Kino-wp - Wordpress project - Using the free version of wordpress, creating our own theme and slimming down the use of plugins to just utilizing Advanced custom fields. 
 
