@@ -8,7 +8,7 @@ My name is Petter Jakobsson. I´m 31 years old, based in Gothenburg, Sweden.
 
 Currently studying Webdevelopment at Yrgo. Looking for a place to do my LiA, November 2023 - May 2024.
 
-I am intrested in all things related to webdevelopment and look to persue a career within the field. 
+I am intrested in all things related to webdevelopment and look to pursue a career within the field. 
 
 Some of the tech i have experience with: SQL, Php, React, Typescript, Wordpress, C# and nextJS.
 
