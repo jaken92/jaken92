@@ -16,35 +16,16 @@ Some of the tech i have experience with: SQL, Php, React, Typescript, Wordpress,
 
 Here are some of my repositories i think you should check out: 
 
-- 🌱 [Recipe-Book](http://example.com) - Laravel project - Featuring some of my work related to database, relations, routing and querybuilding in Laravel.
+- 🌱 [Recipe-Book](https://github.com/jaken92/Recipes-Book) - Laravel project - Working with database, relations, routing, controllers and querybuilding in Laravel.
 
-- 🌱 Kino-wp - Wordpress project - Using the free version of wordpress, creating our own theme and slimming down the use of plugins to just utilizing Advanced custom fields. 
+- 🌱 [Kino-Koszyk](https://github.com/jaken92/Kino-wp) - Wordpress project - Using the free version of wordpress, following a detailed design and slimming down the use of plugins to just utilizing Advanced custom fields. 
 
-- 🌱 The Zen Quote Machine - Typescript/React project - Exploring the world of typescript in conjunction with react. Using Tan stack query to handle fetching from API. 
+- 🌱 [The-Quote-Machine](https://github.com/jaken92/ZenQuoteMachine) - Typescript/React project - Exploring the world of typescript in conjunction with react. Using Tan stack query to handle fetching from API. 
 
-- 🌱 Animal-hangman - React project - My very first encounter with react. Building a hangman-game felt like a great way to get familiar with some of its features. 
+- 🌱 [Hangman](https://github.com/jaken92/hangman) - React project - My very first encounter with react. Building a hangman-game felt like a great way to get familiar with some of its features such as useEffect and styled components. 
 
-🔭 - I am currently working on a Supabase/NextJS web app together with my classmate Anna Brummark, follow our progress here:  
+🔭 - I am currently working on a Supabase/NextJS web app together with my classmate Anna Brummark, follow our progress here: [Media-Watch](https://github.com/AnnaBrum/media-watch)
 
 ## Contact
 
 - 📫 petjak0627@skola.goteborg.se || +46735876724
-
-
-
-<!--
-**jaken92/jaken92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![image of me coding](https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
