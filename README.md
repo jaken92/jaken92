@@ -24,7 +24,7 @@ Here are some of my repositories i think you should check out:
 
 - 🌱 [Hangman](https://github.com/jaken92/hangman) - React project - My very first encounter with react. Building a hangman-game felt like a great way to get familiar with some of its features such as useEffect and styled components. 
 
-🔭 - I am currently working on a Supabase/NextJS web app together with my classmate Anna Brummark, follow our progress here: [Media-Watch](https://github.com/AnnaBrum/media-watch)
+- 🔭 I am currently working on a Supabase/NextJS web app together with my classmate Anna Brummark, follow our progress here: [Media-Watch](https://github.com/AnnaBrum/media-watch)
 
 ## Contact
 
