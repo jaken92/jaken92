@@ -18,11 +18,11 @@ Here are some of my repositories i think you should check out:
 
 - 🌱 [Recipe-Book](https://github.com/jaken92/Recipes-Book) - Laravel project - Working with database, relations, routing, controllers and querybuilding in Laravel.
 
-- 🌱 [Kino-Koszyk](https://github.com/jaken92/Kino-wp) - Wordpress project - Using the free version of wordpress, following a detailed design and slimming down the use of plugins to just utilizing Advanced custom fields. 
+- 🌱 [Kino-Koszyk](https://github.com/jaken92/Kino-wp) - Wordpress project - Using the free version of wordpress, following a detailed design and slimming down the use of plugins. 
 
 - 🌱 [The-Quote-Machine](https://github.com/jaken92/ZenQuoteMachine) - Typescript/React project - Exploring the world of typescript in conjunction with react. Using Tan stack query to handle fetching from API. 
 
-- 🌱 [Hangman](https://github.com/jaken92/hangman) - React project - My very first encounter with react. Building a hangman-game felt like a great way to get familiar with some of its features such as useEffect and styled components. 
+- 🌱 [Hangman](https://github.com/jaken92/hangman) - React project - My first encounter with react. Building a hangman-game felt like a great way to get familiar with some of its features such as useState and styled components. 
 
 - 🔭 I am currently working on a Supabase/NextJS web app together with my classmate Anna Brummark, follow our progress here: [Media-Watch](https://github.com/AnnaBrum/media-watch)
 
