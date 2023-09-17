@@ -1,6 +1,6 @@
 # Welcome!
 
-Welcome to my profile! Here you can see some of my work and projects within the field of web development. 
+I´m glad you found your way to my profile! Here you can see some of my work and projects within the field of web development. 
 
 ## About
 
@@ -16,7 +16,7 @@ Some of the tech i have experience with: SQL, Php, React, Typescript, Wordpress,
 
 Here are some of my repositories i think you should check out: 
 
-- 🌱 RecipeBook - Laravel project - Featuring some of my work related to database, relations, routing and querybuilding in Laravel.
+- 🌱 [(https://github.com/jaken92/recipes-book)]: Recipe Book - Laravel project - Featuring some of my work related to database, relations, routing and querybuilding in Laravel.
 
 - 🌱 Kino-wp - Wordpress project - Using the free version of wordpress, creating our own theme and slimming down the use of plugins to just utilizing Advanced custom fields. 
 
