@@ -4,11 +4,11 @@ I´m glad you found your way to my profile! Here you can see some of my work and
 
 ## About
 
-My name is Petter Jakobsson. I´m 31 years old, based in Gothenburg, Sweden. 
+My name is Petter Jakobsson. I´m 32 years old, based in Gothenburg, Sweden. 
 
-Currently studying Webdevelopment at Yrgo. Looking for a place to do my LiA, November 2023 - May 2024.
+Graduated from YRGO Web development in May '24. Currently in an internship at Ericsson.
 
-I am intrested in all things related to webdevelopment and look to pursue a career within the field. 
+I am intrested in all things related to web, right now I am looking for new challenges within the field - send me a mail if you would like to have a chat with [me](petterjakobsson9206@gmail.com).  
 
 Some of the tech i have experience with: SQL, Php, React, Typescript, Wordpress, C# and nextJS.
 
@@ -24,8 +24,10 @@ Here are some of my repositories i think you should check out:
 
 - 🌱 [Hangman](https://github.com/jaken92/hangman) - React project - My first encounter with react. Building a hangman-game felt like a great way to get familiar with some of its features such as useState and styled components. 
 
-- 🔭 I am currently working on a Supabase/NextJS web app together with my classmate Anna Brummark, follow our progress here: [Media-Watch](https://github.com/AnnaBrum/media-watch)
+- 🌱 [Media-Watch](https://github.com/AnnaBrum/media-watch) Supabase/NextJS web app for tracking subscriptions built with my classmate AnnaBrum.
+
+- 🌱 [Flower-store](https://github.com/jaken92/flower-store) React/Hydrogen/Shopify Webstore for a florist. Developed with my friend Emma Hedlund.  
 
 ## Contact
 
-- 📫 petjak0627@skola.goteborg.se || +46735876724
+- 📫 petterjakobsson9206@gmail.com || +46735876724
