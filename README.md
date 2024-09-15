@@ -12,9 +12,12 @@ I am intrested in all things related to web, right now I am looking for new chal
 
 Some of the tech i have experience with: SQL, Php, React, Typescript, Wordpress and nextJS.
 
-## Projects
 
-Here are some of my repositories i think you should check out: 
+Here are some applications that ive made in the past, take a look if you want to:
+
+## Old Projects
+
+*Disclaimer - these are no longer being maintained*
 
 - 🌱 [Recipe-Book](https://github.com/jaken92/Recipes-Book) - Laravel project - Working with database, relations, routing, controllers and querybuilding in Laravel.
 
@@ -27,6 +30,10 @@ Here are some of my repositories i think you should check out:
 - 🌱 [Media-Watch](https://github.com/AnnaBrum/media-watch) Supabase/NextJS web app for tracking subscriptions built with my classmate AnnaBrum.
 
 - 🌱 [Flower-store](https://github.com/jaken92/flower-store) React/Hydrogen/Shopify Webstore for a florist. Developed with my friend Emma Hedlund.  
+
+## Recent Projects 
+
+- 🌱 [React-profile](https://github.com/jaken92/reactprofile) React/Typescript/Styled components. Website with a small presentation of me. Planning to further develop this.  
 
 ## Contact
 
