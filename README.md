@@ -35,7 +35,7 @@ Here are some applications that ive made in the past, take a look if you want to
 
 - 🌱 [React-profile](https://github.com/jaken92/reactprofile) React/Typescript/Styled components. Website with a small presentation of me. Planning to further develop this.
 
-- &#x2318; [NodeJS/Express - Api](https://github.com/jaken92/nodeprofile) REST-api under construction. 
+- 🔧 [NodeJS/Express - Api](https://github.com/jaken92/nodeprofile) REST-api under construction. 
 
 
 ## Contact
