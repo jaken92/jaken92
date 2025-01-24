@@ -33,7 +33,10 @@ Here are some applications that ive made in the past, take a look if you want to
 
 ## Recent Projects 
 
-- 🌱 [React-profile](https://github.com/jaken92/reactprofile) React/Typescript/Styled components. Website with a small presentation of me. Planning to further develop this.  
+- 🌱 [React-profile](https://github.com/jaken92/reactprofile) React/Typescript/Styled components. Website with a small presentation of me. Planning to further develop this.
+
+- ⌘ [NodeJS/Express - Api](https://github.com/jaken92/nodeprofile) REST-api under construction. 
+
 
 ## Contact
 
