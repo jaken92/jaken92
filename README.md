@@ -6,11 +6,11 @@ I´m glad you found your way to my profile! Here you can see some of my work and
 
 My name is Petter Jakobsson. I´m 32 years old, based in Gothenburg, Sweden. 
 
-Graduated from YRGO Web development in May '24. Currently in an internship at Ericsson.
+Graduated from YRGO Web development in May '24 and did my internship with the automation team at Ericsson.
 
-I am intrested in all things related to web, right now I am looking for new challenges within the field - send me a [mail](mailto:petterjakobsson9206@gmail.com) if you would like to have a chat with me.  
+I am intrested in all things related to web, right now I am looking for new challenges within the field - send me a [mail](mailto:petterjakobsson9206@gmail.com) if you would like to have a chat.  
 
-Some of the tech i have experience with: SQL, Php, React, Typescript, Wordpress and nextJS.
+Some of the tech i have experience with: SQL, Php, React, Typescript, NodeJS, Wordpress and NextJS.
 
 
 Here are some applications that ive made in the past, take a look if you want to:
