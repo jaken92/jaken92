@@ -15,29 +15,28 @@ Some of the tech i have experience with: SQL, Php, React, Typescript, NodeJS, Wo
 
 Here are some applications that ive made in the past, take a look if you want to:
 
-## Old Projects
+## Recent Projects 
 
-*Disclaimer - these are no longer being maintained*
+- 🔧 [React-profile](https://github.com/jaken92/reactprofile) React/Typescript/Styled components. Website with a small presentation of me. Planning to further develop this.
 
-- 🌱 [Recipe-Book](https://github.com/jaken92/Recipes-Book) - Laravel project - Working with database, relations, routing, controllers and querybuilding in Laravel.
+- 🔧 [NodeJS/Express - Api](https://github.com/jaken92/nodeprofile) NodeJS/Express rest-api under construction. 
 
-- 🌱 [Kino-Koszyk](https://github.com/jaken92/Kino-wp) - Wordpress project - Using the free version of wordpress, following a detailed design and slimming down the use of plugins. 
+## Older Projects
 
-- 🌱 [The-Quote-Machine](https://github.com/jaken92/ZenQuoteMachine) - Typescript/React project - Exploring the world of typescript in conjunction with react. Using Tan stack query to handle fetching from API. 
+*Disclaimer - some of these are no longer being maintained*
 
-- 🌱 [Hangman](https://github.com/jaken92/hangman) - React project - My first encounter with react. Building a hangman-game felt like a great way to get familiar with some of its features such as useState and styled components. 
+- 🌱 [Flower-store](https://github.com/jaken92/flower-store) React/Hydrogen/Shopify Webstore for a florist. Developed with my friend Emma Hedlund.
 
 - 🌱 [Media-Watch](https://github.com/AnnaBrum/media-watch) Supabase/NextJS web app for tracking subscriptions built with my classmate AnnaBrum.
 
-- 🌱 [Flower-store](https://github.com/jaken92/flower-store) React/Hydrogen/Shopify Webstore for a florist. Developed with my friend Emma Hedlund.  
+- 🌱 [Hangman](https://github.com/jaken92/hangman) - React project - My first encounter with react. Building a hangman-game felt like a great way to get familiar with some of its features such        as useState and styled components.
+  
+- 🌱 [The-Quote-Machine](https://github.com/jaken92/ZenQuoteMachine) - Typescript/React project - Exploring the world of typescript in conjunction with react. Using Tan stack query to handle fetching from API. 
 
-## Recent Projects 
+- 🌱 [Kino-Koszyk](https://github.com/jaken92/Kino-wp) - Wordpress project - Using the free version of wordpress, following a detailed design and slimming down the use of plugins. 
 
-- 🌱 [React-profile](https://github.com/jaken92/reactprofile) React/Typescript/Styled components. Website with a small presentation of me. Planning to further develop this.
-
-- 🔧 [NodeJS/Express - Api](https://github.com/jaken92/nodeprofile) REST-api under construction. 
-
+- 🌱 [Recipe-Book](https://github.com/jaken92/Recipes-Book) - Laravel project - Working with database, relations, routing, controllers and querybuilding in Laravel.
 
 ## Contact
 
-- 📫  [petterjakobsson9206@gmail.com](mailto:petterjakobsson9206@gmail.com) || +46735876724
+- 📫  [petterjakobsson9206@gmail.com](mailto:petterjakobsson9206@gmail.com) || +46735876724 || [https://petterjakobsson.netlify.app/contact](https://petterjakobsson.netlify.app/contact)
